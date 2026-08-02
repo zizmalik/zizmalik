@@ -7,8 +7,9 @@ An interdisciplinary profile merging 27 years of high-consequence materials eval
 
 ## 🛠️ Domain & Technical Frameworks
 * **Industrial Expertise:** Non-Destructive Testing (NDT), Level-1 Ultrasonic Testing (ISO 9712), Nuclear Metallurgy, Failure Analysis, Microstructural Kinetics.
-* **AI & Computing Stack:** Python Automation, Machine Learning Surrogate Modeling, Predictive Analytics, Time-Series Sensor Stream Management.
+* **AI & Computing Stack:** Python Automation, Machine Learning Surrogate Modeling (Verified 96.33% R² Script), Predictive Analytics.
 * **Academic Leadership:** Outcome-Based Education (OBE) Management, Research Project Coordination, Technical Curriculum Design.
+* **Language Proficiency:** Verified English Medium of Instruction (VU Certificate Ref: VU-REG/Masters/23/0007/3).
 
 ---
 
@@ -45,18 +46,4 @@ A curated execution of advanced professional specialization tracks from IBM and 
 * **LinkedIn:** [Zafar Iqbal Zafar on LinkedIn](http://linkedin.com)
 * **Objective:** Actively exploring fully funded **PhD as a Job** research fellowships across Europe focused on Materials Informatics, Smart Manufacturing, and Cognitive Digital Twins.
 
-
-<!--
-**zizmalik/zizmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
